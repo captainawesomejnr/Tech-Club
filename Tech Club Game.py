@@ -1,4 +1,3 @@
-import time
 print("""Welcome to
 TECH CLUB
 The game of three children who find a superpower at school!""")
@@ -18,7 +17,7 @@ OR type exit to finish the game.
 >>> """)
     if Level == "0":
         print("""Three kids walked down the hallway. Their names were Charlie, Luna and Ashton.
-You are Charlie.
+You are Vutu.
 You and your tech-savvy friends walked into the tech room, just like Chi, the tech man, asked.
 He showed you to the back of the room and you saw a staircase.
 "I've been waiting to show you this. The most high-tech area in the country. I hope you like it."
@@ -47,7 +46,36 @@ Little do you know, the supercomputer is so powerful, it can manipulate time.
 Your friends do, though, and they tell you about it.
 You agree to the plan.
 
-"Let's go back to the past!" suggested Ashton.""")
+"Let's go back to the past!" suggested Ashton.
+"The first console? Isn't that the... Sega Master System aka Sega Mark 3?" you say.
+Everyone agrees.
+You search for SEGA but the only result was the Dreamcast.
+"No OS for the Master System. Dreamcast, maybe?"
+"No."Ashton firmly said.
+"I feel the same. OG Xbox?" you say.
+"YEAH!!!" Luna shouts.
+You serch for Xbox and select 'Xbox (OG)' and also slow down time with the supercomputer.
+As you sit down, a holographic screen comes up in front of you.
+The OG Xbox startup.
+You can't believe you are seeing this in person.
+But you are.
+
+
+After a few games, you hop on to the GameCube.
+Then the DS.
+And you relised you missed Linux for PS2.
+But you don't mind.
+So you do the PSP.
+Then the Xbox 360, all UIs at once.
+Then the DSi.
+Over and over again, until you are finished.
+EXCEPT for the PS5.
+Instead, you ask everyone whether they want to play on yours.
+They agree.
+You turn off the supercomputer and start heading home with the rest of your Tech Club friends.
+And you only took a minute of real time to do all that.
+
+END ADVENTURE""")
 
 
 
